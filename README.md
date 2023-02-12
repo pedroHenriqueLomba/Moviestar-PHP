@@ -6,12 +6,20 @@ https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/
 
 Devido ao fato do projeto utilizar um serviço de banco de dados, foi adicionado um arquivo ".sql" o qual é possível clonar o banco de dados utilizado por mim.
 
-Para realizar a criação do projeto, foi utilizado as seguintes ferramentas:
+Para realizar a criação do projeto, foi utilizado as seguintes ferramentas e tecnologias:
 
 -Xampp;
 
 -Visual Studio Code (VS-Code);
 
--MySQLWorkBench.
+-MySQLWorkBench;
+
+-HTML;
+
+-CSS;
+
+-FontAwesome;
+
+-PHP.
 
 Meus contatos estarão no rodapé do projeto e estarei a disposição para qualquer eventual dúvida.
