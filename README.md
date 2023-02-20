@@ -1,4 +1,4 @@
-# Moviestar-Orientado-a-Objetos
+# Moviestar
 Uma rede social com o intuito de adicionar filmes e críticas de maneira similar ao site "Rotten Tomatoes"
 
 O projeto a seguir foi desenvolvido utilizando como base o curso da Udemy "PHP do Zero a Maestria + 4 Projetos incríveis", o qual pode ser verificado através do seguinte link:
